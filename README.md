@@ -1,12 +1,22 @@
 Table of contents
 
 - [Update log](#update-log)
-  - [1.3.0](##1.3.0)
+  - [1.4.0](#1.4.0)
+  - [1.3.0](#1.3.0)
   - [1.2.0](#1.2.0)
   - [1.1.0](#1.1.0)
   - [1.0.0](#1.0.0)
 
 # Update log
+
+  ## 1.4.0
+
+    Edited some typos
+    Added 2 new seals
+      Joker seal
+          -Gives a random negative joker when discarded
+      Instand win
+          -When hand is scored, 1 in 100 chance to give 10,000,000,000,000,000,000 mult
 
   ## 1.3.0
 
