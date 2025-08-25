@@ -1,8 +1,20 @@
-Update log
-  1.3.0
-  1.2.0
-  1.1.0
-  1.0.0
+Table of contents
+
+- [Update log](#update-log)
+  - [1.3.0](##1.3.0)
+  - [1.2.0](#1.2.0)
+  - [1.1.0](#1.1.0)
+  - [1.0.0](#1.0.0)
+# Update log
+
+  ## 1.3.0
+  
+  ## 1.2.0
+  
+  ## 1.1.0
+  
+  ## 1.0.0
+  
     Added 6 New jokers
       Error
       Joker2
