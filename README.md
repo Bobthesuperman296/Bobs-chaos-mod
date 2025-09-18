@@ -34,7 +34,7 @@ Table of contents
     Added 2 new seals
       Joker seal
           -Gives a random negative joker when discarded
-      Instand win
+      Instant win
           -When hand is scored, 1 in 100 chance to give 10,000,000,000,000,000,000 mult
 
   ## 1.3.0
