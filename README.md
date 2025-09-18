@@ -1,6 +1,7 @@
 Table of contents
 
 - [Update log](#update-log)
+  - [1.5.0](#1.5.0)
   - [1.4.0](#1.4.0)
   - [1.3.0](#1.3.0)
   - [1.2.0](#1.2.0)
@@ -8,6 +9,24 @@ Table of contents
   - [1.0.0](#1.0.0)
 
 # Update log
+
+  ## 1.5.0
+
+    Added 1 new booster pack
+    Green screen pack
+        -Choose 1 of 3 random tarot cards
+    Added 1 new Consumable
+        Something
+            -Gives a random voucher on use
+    Added 2 new Jokers
+        Doritos
+            -If you play exactly 3 cards, retrigers hand 3 times
+        Payday
+            -At the end of a round, gives $10 and a negative hermit
+    Added 1 new Enhancement
+        Emerald
+            -Gives x10 mult if scored
+    Edited name of "New booster pack" to "Lets go gambling (for jokers)"
 
   ## 1.4.0
 
