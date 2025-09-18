@@ -1,5 +1,6 @@
 Table of contents
 
+- [Important!](#Important!)
 - [Update log](#update-log)
   - [1.5.0](#1.5.0)
   - [1.4.0](#1.4.0)
@@ -7,6 +8,10 @@ Table of contents
   - [1.2.0](#1.2.0)
   - [1.1.0](#1.1.0)
   - [1.0.0](#1.0.0)
+
+# Important!
+
+    Go here to learn how to play the mod -> https://github.com/Steamodded/smods
 
 # Update log
 
