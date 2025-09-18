@@ -11,7 +11,7 @@ Table of contents
 
 # Important!
 
-    Go here to learn how to play the mod -> https://github.com/Steamodded/smods
+    Copy and paste this to find the modloader -> https://github.com/Steamodded/smods
 
 # Update log
 
