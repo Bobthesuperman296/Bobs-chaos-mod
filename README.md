@@ -2,8 +2,8 @@ Table of contents
 
 - [Important!](#Important!)
 - [Update log](#update-log)
-  - [1.6.1](#1.6.1)
   - [1.6.0](#1.6.0)
+    - [1.6.1](#1.6.1)
   - [1.5.0](#1.5.0)
   - [1.4.0](#1.4.0)
   - [1.3.0](#1.3.0)
@@ -16,10 +16,6 @@ Table of contents
     Copy and paste this to find the modloader -> https://github.com/Steamodded/smods
 
 # Update log
-
-  ## 1.6.1
-
-    Readded vanila cards (It wqas impossible to win without the vanila cards
 
   ## 1.6.0
 
@@ -36,6 +32,10 @@ Table of contents
            -Gives X2 chips
        Mult card v2
            -Gives X2 mult
+
+  ## 1.6.1
+
+    Readded vanila cards (It wqas impossible to win without the vanila cards
 
   ## 1.5.0
 
