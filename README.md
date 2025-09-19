@@ -2,6 +2,7 @@ Table of contents
 
 - [Important!](#Important!)
 - [Update log](#update-log)
+  - [1.6.0](#1.6.0)
   - [1.5.0](#1.5.0)
   - [1.4.0](#1.4.0)
   - [1.3.0](#1.3.0)
@@ -14,6 +15,22 @@ Table of contents
     Copy and paste this to find the modloader -> https://github.com/Steamodded/smods
 
 # Update log
+
+  ## 1.6.0
+
+    Added 1 new seal
+       Steel seal
+           -Gives 3X Mult if held in hand
+    Buffed instant win seal, 1 in 100 chance > 1 in 10 chance
+    Added 2 new consumable sets
+       Random sets
+           -contains the "Random tarot", "Random spectral", "Random planet", "Random jokers", and "Random consumables" consumables
+    Fixed Green screen consumable pack not working correctly
+    Added 2 new enhancements
+       Bonus card v2
+           -Gives X2 chips
+       Mult card v2
+           -Gives X2 mult
 
   ## 1.5.0
 
